@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "131385874920",
+    "firebase_url": "https://readnote-3fd76-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "readnote-3fd76",
+    "storage_bucket": "readnote-3fd76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131385874920:android:d997f0014e62a5a54a2c5d",
+        "android_client_info": {
+          "package_name": "com.example.readnote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVwXcpGejgg3GJwu8t2Rk9o3_w9IxJwd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
